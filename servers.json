@@ -55,6 +55,8 @@
         {
             "name": "StikTech",
             "address": "https://ani.stik.tech"
-        }
+        },    
+            "name": "CustomServer"
+            "address": "https://custom-server-564z.onrender.com"
     ]
 }
